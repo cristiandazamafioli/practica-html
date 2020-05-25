@@ -1,3 +1,15 @@
-body {
-    background: pink !important;
+/* reglas
+selectores
+declaraciones
+propiedades
+valores */
+
+
+/* Selector de etiqueta header - selection*/
+header {
+    background: pink;
+    color: gray
 }
+
+/* Selector descendente */
+/* body header div nav ol li a */
