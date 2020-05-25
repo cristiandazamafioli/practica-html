@@ -13,3 +13,16 @@ header {
 
 /* Selector descendente */
 /* body header div nav ol li a */
+
+body {
+    font-family: Lobster;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
